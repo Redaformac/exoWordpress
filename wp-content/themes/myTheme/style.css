@@ -1,0 +1,212 @@
+/* style ici */
+/* Theme Name: myTheme */
+
+body {
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+#nav {
+    background-color: #F1F5F7;
+    /*margin-top: -35px;*/
+}
+
+#nav a{
+    color:grey;
+}
+
+#nav a:hover{
+    color: #4025a9;
+}
+
+#banniere_index{
+    background-image: url("img/home.jpg");
+    height: 500px;
+    background-attachment: fixed;
+}
+
+#banniere_about{
+    background-image: url("img/about.jpg");
+    height: 500px;
+    background-attachment: fixed;
+}
+
+#banniere_news{
+    background-image: url("img/news.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    vertical-align: middle;
+}
+
+#banniere_contact{
+    background-image: url("img/contact.jpg");
+    height: 200px;
+}
+
+.contenu_article{
+    padding: 1rem;
+}
+
+.titre{
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.text-center{
+    padding: 12rem 0;
+    color: white;
+}
+
+.text-center-contact{
+    padding: 4rem 0;
+    color: white;
+}
+
+#team, #latest{
+    background-color: #E8ECF8;
+    padding: 5rem 0;
+}
+
+#article{
+    background-color: #E8ECF8;
+}
+
+footer{
+    background-color: #F0F0F0;
+}
+
+.fab{
+    font-size: 1.5rem;
+    margin-right: 1rem;
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+.gras{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.more{
+    background-color: red;
+    color: white;
+    padding: 1rem 3rem;
+}
+
+.more:hover{
+    color: white;
+    text-decoration: none;
+    background-color: rgba(250, 75, 78, 0.5);
+}
+
+.started{
+    background-color: red;
+    color: white;
+    padding: 1rem 3rem;
+}
+
+.started:hover{
+    color: white;
+    text-decoration: none;
+    background-color: #4025a9;
+}
+
+div a{
+    color: black;
+}
+
+div a:hover{
+    text-decoration:none;
+    color: #4025a9;
+}
+
+#services{
+    padding: 4rem 0;
+}
+
+#clients{
+    padding: 7rem 0;
+}
+
+#contacts{
+    padding: 4rem 0;
+    border-top: 1px solid grey;
+}
+
+#about{
+    padding: 4rem 0;
+}
+
+footer{
+    padding: 1rem 0;
+    border-top: 1px solid grey;
+    text-align: center;
+}
+
+.wrap{
+    border:1px solid grey;
+    margin: 1.5rem 0;
+}
+
+.vignette{
+    background-color:white;
+    padding:1rem;
+}
+
+.space{
+    margin-bottom: 2rem;
+}
+
+.nom{
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+.contacts{
+    color: #b3bfe0;
+    }
+
+.extract{
+    font-weight: 700;
+}
+
+.article{
+    padding : 3rem;
+}
+
+.formulaire{
+    padding: 4rem 0;
+    }
+
+#button{
+    background-color: #b6acdd;
+    color: white;
+    float: right;
+}
+
+.bg_red{
+    background-color: red;
+    color: white;
+    padding: 0.2rem;
+}
+
+.gris{
+    color: grey;
+}
+
+.bleu{
+    color: #4025a9;
+}
+
+.transparent{
+
+}
+
+#menu li{
+    margin-left: 10rem;
+}
+
+#contactUs {
+    padding-top: 2rem;
+}
